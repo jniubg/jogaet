@@ -9,14 +9,14 @@ cat << EOF > /etc/v2ray/config.json
         "protocol": "vmess",
         "settings": {
             "clients": [{
-                "id": "8b0ef1cc-14c3-4c8a-b83b-345d892352b3",
+                "id": "f34779b9-174d-4a8d-938c-c498c856350d",
                 "alterId": 0
             }]
         },
         "streamSettings": {
             "network": "ws",
             "wsSettings": {
-                "path": "/haha"
+                "path": "/lulu"
             }
         }
     }],
